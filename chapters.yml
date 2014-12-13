@@ -25,7 +25,7 @@
 - :name: berlin
   :title: Berlin
   :description: The Berlin chapter of Papers We Love
-  :url: http://www.meetup.com/Papers-We-Love-Berlin
+  :url: "/chapter/berlin"
 - :name: pune
   :title: Pune
   :description: The Pune chapter of Papers We Love
@@ -70,3 +70,11 @@
   :title: Chicago
   :description: The Chicago chapter of Papers We Love
   :url: http://www.meetup.com/Papers-We-Love-Chicago/
+- :name: reykjavik
+  :title: Reykjavik
+  :description: The Reykjavik chapter of Papers We Love
+  :url: http://www.meetup.com/Papers-We-Love-Reykjavik/
+- :name: vienna
+  :title: Vienna
+  :description: The Vienna chapter of Papers We Love
+  :url: http://www.meetup.com/Papers-We-Love-Vienna/
